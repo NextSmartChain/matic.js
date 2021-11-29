@@ -1,4 +1,4 @@
-# Matic SDK
+# NEXT Smart Chain SDK
 
 [![GitHub version](https://badge.fury.io/gh/maticnetwork%2Fmatic.js.svg)](https://badge.fury.io/gh/maticnetwork%2Fmatic.js)
 ![Build Status](https://github.com/maticnetwork/matic.js/workflows/CI/badge.svg?branch=master)
